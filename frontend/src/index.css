@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landingPageContainer{
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url("/background.png");
+  background-size: cover;       /* fills entire screen */
+  background-position: center;  /* center the image */
+  background-repeat: no-repeat;
+}
